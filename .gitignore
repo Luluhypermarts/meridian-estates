@@ -1,2 +1,4 @@
 *.log
 server.log
+
+.firebase/
